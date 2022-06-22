@@ -1,0 +1,40 @@
+#################################################################################################
+# AFK Configs                                                                                   #
+#################################################################################################
+
+BungeeCord:
+  Support: false
+  afk-kick-server: "afk-lobby"
+
+Spigot:
+  Support: false
+
+#The Time to Wait until a player is kicked
+kick-after-inactivity-time: 100 #In Seconds
+
+#################################################################################################
+# MESSAGES SETTINGS                                                                             #
+#################################################################################################
+
+message-on-kick: "&eYou were kicked for inactivity!"
+player-kick-warning: "&c&lYou will be afk-ed in &e&l10 seconds&c&l!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
